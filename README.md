@@ -1,4 +1,4 @@
-Game Scripter & Front-end Developer
+Game Scripter
 -----------------------------------
 
 ### Skills
