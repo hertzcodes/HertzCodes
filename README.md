@@ -3,13 +3,20 @@ Game Scripter
 
 ### Skills
 
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/1076034902488789092" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/HertzCodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/rxdmehr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+    <div>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MySQL" title="MongoDB">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
+        <img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim">
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=lua" alt="Lua" title="Lua">
+        <img src="https://skillicons.dev/icons?i=python" alt="Bash" title="Python">
+        <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash">
+    </div>
+</div>
 
 ### Badges
 
