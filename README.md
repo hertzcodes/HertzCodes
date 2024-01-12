@@ -7,7 +7,6 @@ Game Scripter
     <div>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MySQL" title="MongoDB">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker">
         <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git">
         <img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim">
     </div>
