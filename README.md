@@ -17,7 +17,7 @@ Game Scripter
     </div>
 </div>
 
-### Badges
+
 
 <b>My GitHub Stats</b>
 
