@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Interested in back-end development and Devops<br>💼 Programming Teacher @ quera.org<br>🎓 Computer Science Student @ KNTU<br>🤝 Open for collabs (dm on tele: @rxdmehr)<br>
+💻 Interested in back-end development and Devops<br>💼 Programming Teacher @ quera.org<br>🎓 Computer Science Student @ KNTU<br>🤝 Open for collabs<br>
 
 
 ## 🌐 Socials:
